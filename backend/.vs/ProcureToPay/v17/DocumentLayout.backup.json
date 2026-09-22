@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD379-59BA-48B5-A3E1-3DC392FC6E05}|Domain\\ProcureToPay.Domain\\ProcureToPay.Domain.csproj|c:\\users\\andre_henrique\\source\\repos\\procuretopay\\domain\\procuretopay.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9AD379-59BA-48B5-A3E1-3DC392FC6E05}|Domain\\ProcureToPay.Domain\\ProcureToPay.Domain.csproj|solutionrelative:domain\\procuretopay.domain\\entities\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC9AD379-59BA-48B5-A3E1-3DC392FC6E05}|Domain\\ProcureToPay.Domain\\ProcureToPay.Domain.csproj|c:\\users\\andre_henrique\\source\\repos\\procuretopay\\domain\\procuretopay.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC9AD379-59BA-48B5-A3E1-3DC392FC6E05}|Domain\\ProcureToPay.Domain\\ProcureToPay.Domain.csproj|solutionrelative:domain\\procuretopay.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE94C09A-9C05-42BA-A226-6A33722B1E92}|Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj|c:\\users\\andre_henrique\\source\\repos\\procuretopay\\application\\procuretopay.application\\procuretopay.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AE94C09A-9C05-42BA-A226-6A33722B1E92}|Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj|solutionrelative:application\\procuretopay.application\\procuretopay.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC7D92E-F6D1-4D1B-9828-29E3DC806965}|ProcureToPayAPI\\ProcureToPay.API\\ProcureToPay.API.csproj|c:\\users\\andre_henrique\\source\\repos\\procuretopay\\procuretopayapi\\procuretopay.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7EC7D92E-F6D1-4D1B-9828-29E3DC806965}|ProcureToPayAPI\\ProcureToPay.API\\ProcureToPay.API.csproj|solutionrelative:procuretopayapi\\procuretopay.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC7D92E-F6D1-4D1B-9828-29E3DC806965}|ProcureToPayAPI\\ProcureToPay.API\\ProcureToPay.API.csproj|c:\\users\\andre_henrique\\source\\repos\\procuretopay\\procuretopayapi\\procuretopay.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC7D92E-F6D1-4D1B-9828-29E3DC806965}|ProcureToPayAPI\\ProcureToPay.API\\ProcureToPay.API.csproj|solutionrelative:procuretopayapi\\procuretopay.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Domain\\ProcureToPay.Domain\\Entities\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Domain\\ProcureToPay.Domain\\Entities\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Domain\\ProcureToPay.Domain\\Entities\\Fornecedor.cs",
+              "RelativeToolTip": "Domain\\ProcureToPay.Domain\\Entities\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:13:47.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Domain\\ProcureToPay.Domain\\Entities\\Usuario.cs",
+              "RelativeDocumentMoniker": "Domain\\ProcureToPay.Domain\\Entities\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Domain\\ProcureToPay.Domain\\Entities\\Usuario.cs",
+              "RelativeToolTip": "Domain\\ProcureToPay.Domain\\Entities\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:08:11.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProcureToPay.Application",
+              "DocumentMoniker": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj",
+              "RelativeDocumentMoniker": "Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj",
+              "ToolTip": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj",
+              "RelativeToolTip": "Application\\ProcureToPay.Application\\ProcureToPay.Application.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-21T02:05:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\ProcureToPayAPI\\ProcureToPay.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProcureToPayAPI\\ProcureToPay.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\ProcureToPayAPI\\ProcureToPay.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProcureToPayAPI\\ProcureToPay.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-21T02:01:38.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\ProcureToPayAPI\\ProcureToPay.API\\Program.cs",
+              "RelativeDocumentMoniker": "ProcureToPayAPI\\ProcureToPay.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Andre_Henrique\\source\\repos\\ProcureToPay\\ProcureToPayAPI\\ProcureToPay.API\\Program.cs",
+              "RelativeToolTip": "ProcureToPayAPI\\ProcureToPay.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T02:01:27.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

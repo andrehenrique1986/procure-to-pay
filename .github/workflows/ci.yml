@@ -1,0 +1,61 @@
+name: Continuous Integration (CI)
+
+# Executa o pipeline em qualquer 'push' ou 'pull request' na branch principal
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  # ==========================================
+  # JOB 1: Compilação e Testes do Backend (.NET)
+  # ==========================================
+  backend-ci:
+    name: Build & Test (.NET Backend)
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar Código do Repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar .NET 8 SDK
+      uses: actions/setup-dotnet@v4
+      with:
+        dotnet-version: '8.0.x'
+
+    - name: Restaurar Dependências (.NET)
+      run: dotnet restore
+      working-directory: ./backend
+
+    - name: Compilar a Solution
+      run: dotnet build --no-restore --configuration Release
+      working-directory: ./backend
+
+    - name: Executar Testes Unitários (xUnit)
+      run: dotnet test --no-build --configuration Release --verbosity normal
+      working-directory: ./backend
+
+  # ==========================================
+  # JOB 2: Build e Validação do Frontend (React/Node)
+  # ==========================================
+  frontend-ci:
+    name: Build (Frontend React)
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Baixar Código do Repositório
+      uses: actions/checkout@v4
+
+    - name: Configurar Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Instalar Dependências (Node)
+      run: npm ci
+      working-directory: ./frontend
+
+    - name: Validar Build do Frontend
+      run: npm run build
+      working-directory: ./frontend

@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Application",
+    "\\Application\\ProcureToPay.Application",
+    "\\Domain",
+    "\\Domain\\ProcureToPay.Domain",
+    "\\Domain\\ProcureToPay.Domain\\Entities",
+    "\\ProcureToPayAPI"
+  ],
+  "SelectedNode": "\\Domain\\ProcureToPay.Domain\\Entities\\Fornecedor.cs",
+  "PreviewInSolutionExplorer": false
+}
