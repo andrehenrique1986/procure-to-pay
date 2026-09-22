@@ -53,9 +53,9 @@ jobs:
         node-version: '20'
 
     - name: Instalar Dependências (Node)
-      run: npm ci
-      working-directory: ./frontend
+      run: npm install
+      working-directory: ./ProcureToPayFront
 
     - name: Validar Build do Frontend
       run: npm run build
-      working-directory: ./frontend
+      working-directory: ./ProcureToPayFront
