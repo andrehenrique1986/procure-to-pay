@@ -54,8 +54,8 @@ jobs:
 
     - name: Instalar Dependências (Node)
       run: npm install
-      working-directory: ./frontend-react
+      working-directory: ./frontend-react/frontend
 
     - name: Validar Build do Frontend
       run: npm run build
-      working-directory: ./frontend-react
+      working-directory: ./frontend-react/frontend
