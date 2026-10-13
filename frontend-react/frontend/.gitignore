@@ -1,0 +1,48 @@
+<<<<<<< HEAD
+## Visual Studio temporaries and caches
+.vs/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Build outputs
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+[Ll]og/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userquery
+
+## EF Core local tools
+.config/dotnet-tools.json
+=======
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+>>>>>>> 2b5fa27 (Criando o Dockerfile no React)
